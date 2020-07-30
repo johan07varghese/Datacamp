@@ -1,2 +1,2 @@
 # Datacamp
-List of datacamp projects
+List of datacamp projects that I have worked on.
